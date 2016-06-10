@@ -12,9 +12,9 @@
         "php": ">=5.3.0",
         "symfony/framework-bundle": "~2.6",
         "sergeil/extjslocalization-bundle": "~1.0",
-        "hydface/backend-tools-bundle": "dev-master",
-        "hydface/mjr-integration-bundle": "dev-master",
-        "hydface/translations-bundle": "dev-master"
+        "hydface/backend-tools-bundle": "self.version",
+        "hydface/mjr-integration-bundle": "self.version",
+        "hydface/translations-bundle": "self.version"
     },
     "autoload": {
         "psr-0": {
